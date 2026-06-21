@@ -1,2 +1,14 @@
 # 2026worldcup-cnzone-guide
-HTML page archive and documentation
+
+自动发布文件目录
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
